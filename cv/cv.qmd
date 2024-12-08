@@ -1,0 +1,65 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Jamie Tian
+date: last-modified
+phone: 805-824-7559
+address: "Los Angeles, CA 90024"
+email: 613knj@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+#github: github # github account
+orcid: 0000-0002-1825-0097 # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+web: jtian.org
+fontawesome: yes
+nocite: '@*'
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Employment
+
+*UCLA*
+
+IT Consultant (Anderson School of Management) \hfill 2024
+
+Help Desk (Transportation Department) \hfill 2024
+
+
+*Outlier AI*
+
+AI Trainer in Mathematics & Python \hfill 2024
+
+*Self-Employeed*
+
+Statistics, Mathematics, & Computer Science Tutor \hfill 2022 - 2024
+
+*Pasadena Humane*
+
+Wildlife Data Entry & Help Desk
+\hfill 2022 - 2023
+
+# Education
+
+*University of California, Los Angeles*, B.S. Statistics & Data Science \hfill 2023 - 2025
+
+# Projects
+
+Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights (2024)
+
+Predicting Obesity Status using Machine Learning Techniques (2024)
+
+A Research Study on Mental Arithmetic Abilities in R (2024)
+
+Life Expectancy Analysis in R (2024)
+
+The Book Rent/Return System in C++ (2023)
+
+# References
+
+Available upon request
